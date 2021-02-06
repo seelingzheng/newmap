@@ -1,0 +1,50 @@
+/* @preserve
+ * gcoord 0.2.2, geographic coordinate library
+ * Copyright (c) 2019 Jiulong Hu <me@hujiulong.com>
+ */
+
+/*!
+  * vue-router v3.4.9
+  * (c) 2020 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * maptalks v1.0.0-alpha.13
+ * LICENSE : BSD-3-Clause
+ * (c) 2016-2020 maptalks.org
+ */
+
+/*!
+ * maptalks.animatemarker v0.4.0
+ * LICENSE : MIT
+ * (c) 2016-2017 maptalks.org
+ */
+
+/*!
+ * requires maptalks@>=0.25.0 
+ */
+
+/*!
+ * vuex v3.5.1
+ * (c) 2020 Evan You
+ * @license MIT
+ */
+
+/**
+ * Less - Leaner CSS v3.12.2
+ * http://lesscss.org
+ * 
+ * Copyright (c) 2009-2020, Alexis Sellier <self@cloudhead.net>
+ * Licensed under the Apache-2.0 License.
+ *
+ * @license Apache-2.0
+ */
+
+/** @license zlib.js 2012 - imaya [ https://github.com/imaya/zlib.js ] The MIT License */
